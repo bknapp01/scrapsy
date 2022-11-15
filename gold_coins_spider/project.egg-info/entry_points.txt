@@ -1,3 +1,0 @@
-[scrapy]
-settings = gold_coins_spider.settings
-
